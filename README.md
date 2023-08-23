@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 Site ScreenShots
-![Web capture_24-8-2023_2473_localhost](https://github.com/Aakash-Kashyap24/Advance-Form-Builder/assets/110857134/16393562-0a1d-4cdf-9958-7dd5c7d380dd)
+![Web capture_24-8-2023_2473_localhost](https://github.com/Aakash-Kashyap24/Advance-Form-Builder-UI-Page/assets/110857134/0b2d6786-f982-4de7-b442-3221ccdb011a)
+
+
 
 
 ## Getting Started

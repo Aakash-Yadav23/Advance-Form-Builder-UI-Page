@@ -29,7 +29,7 @@ const SearchComponents: React.FC<SearchComponentProps> = ({
     setIsFocused(false);
   };
 
-  const HandleSearch=(e:string)=>{
+  const HandleSearch=(e:any)=>{
 setValue(e.target.value)
   }
   const handleSearchClick = () => {
